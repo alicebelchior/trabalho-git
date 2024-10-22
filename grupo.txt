@@ -1,8 +1,5 @@
 1. Alice Barbosa Belchior 
 2. Daniela Ferreira Santos
-<<<<<<< Updated upstream
-3. Erika Araujo Fernandes 
-4. Juliana Soares Ferreira
-=======
 3. Erika Araujo Fernandes
->>>>>>> Stashed changes
+4. Juliana Soares Ferreira
+
